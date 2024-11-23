@@ -32,3 +32,6 @@ print(isinstance(bmw, BMW))
 print(isinstance(bmw, Car))
 print(isinstance(animal, Animal))
 print(isinstance(animal, Car))
+
+
+
